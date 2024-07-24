@@ -638,7 +638,7 @@ plt.legend()
 
 
     
-![png](output_17_1.png)
+![png](Images/output_17_1.png)
     
 
 
@@ -659,7 +659,7 @@ corona_dataset_aggregated.loc['China'].plot()
 
 
     
-![png](output_19_1.png)
+![png](Images/output_19_1.png)
     
 
 
@@ -677,7 +677,7 @@ corona_dataset_aggregated.loc["China"][:3].plot()
 
 
     
-![png](output_20_1.png)
+![png](Images/output_20_1.png)
     
 
 
@@ -697,7 +697,7 @@ corona_dataset_aggregated.loc["China"].diff().plot()
 
 
     
-![png](output_22_1.png)
+![png](Images/output_22_1.png)
     
 
 
@@ -1743,7 +1743,7 @@ sns.scatterplot(x,np.log(y))
 
 
     
-![png](output_56_1.png)
+![png](Images/output_56_1.png)
     
 
 
@@ -1761,7 +1761,7 @@ sns.regplot(x,np.log(y))
 
 
     
-![png](output_57_1.png)
+![png](Images/output_57_1.png)
     
 
 
@@ -1783,7 +1783,7 @@ sns.scatterplot(x,np.log(y))
 
 
     
-![png](output_59_1.png)
+![png](Images/output_59_1.png)
     
 
 
@@ -1801,7 +1801,7 @@ sns.regplot(x,np.log(y))
 
 
     
-![png](output_60_1.png)
+![png](Images/output_60_1.png)
     
 
 
@@ -1823,7 +1823,7 @@ sns.scatterplot(x,np.log(y))
 
 
     
-![png](output_62_1.png)
+![png](Images/output_62_1.png)
     
 
 
@@ -1841,7 +1841,7 @@ sns.regplot(x,np.log(y))
 
 
     
-![png](output_63_1.png)
+![png](Images/output_63_1.png)
     
 
 
@@ -1863,7 +1863,7 @@ sns.scatterplot(x,np.log(y))
 
 
     
-![png](output_65_1.png)
+![png](Images/output_65_1.png)
     
 
 
@@ -1881,6 +1881,6 @@ sns.regplot(x,np.log(y))
 
 
     
-![png](output_66_1.png)
+![png](Images/output_66_1.png)
     
 
